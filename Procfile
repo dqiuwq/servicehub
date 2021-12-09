@@ -1,1 +1,1 @@
-web: java -jar target/servicehubws-0.0.1-SNAPSHOT.jar
+web: java -jar servicehubWS/target/servicehubws-0.0.1-SNAPSHOT.jar
